@@ -1,4 +1,4 @@
-# About serialExample
+# About serialExample 101
 
 ![Screenshot of serialExample](serialExample01.png)
 
@@ -8,10 +8,11 @@ Super basic example of 2 way serial communication between oF and Arduino.
 
 ### Instructions for use:
 
+upload /Arduino code to your Arduino
+open of serialExample101
 press 'a' on the keyboard and Arduino send 'hello' back.
 
 
 ### Try:
-
-Upload 
+ 
 modify the arduino and oF code to make Arduino respond differently to differy keyboard inputs
