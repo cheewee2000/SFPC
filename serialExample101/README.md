@@ -13,4 +13,5 @@ press 'a' on the keyboard and Arduino send 'hello' back.
 
 ### Try:
 
+Upload 
 modify the arduino and oF code to make Arduino respond differently to differy keyboard inputs
