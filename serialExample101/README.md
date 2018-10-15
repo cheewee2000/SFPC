@@ -1,6 +1,6 @@
 # About serialExample
 
-![Screenshot of serialExample](serialExample.png)
+![Screenshot of serialExample](serialExample01.png)
 
 
 ### Learning Objectives
