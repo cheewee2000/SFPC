@@ -1,4 +1,4 @@
-# About Firmarta Example 101
+#  Firmarta Example 101
 
 ![Screenshot of serialExample](firmataExample.png)
 

@@ -1,4 +1,4 @@
-# About serialExample 101
+# serialExample 101
 
 ![Screenshot of serialExample](serialExample01.png)
 
