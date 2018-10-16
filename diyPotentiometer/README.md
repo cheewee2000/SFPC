@@ -3,6 +3,7 @@
 ![diypotentiometer](diyPotentiometer.gif)
 
 Simple Arduino touch sensor -> oF output
+pencil lead, paper, copper tape, alligator cips, one resistor, arduino, openframeworks
 
 
 ### Instructions for use:
