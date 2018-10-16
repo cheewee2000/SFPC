@@ -69,6 +69,8 @@
 # XCode 4
 xcuserdata
 *.xcworkspace
+*.xcconfig
+*.plist
 
 # Code::Blocks
 *.depend
