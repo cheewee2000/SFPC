@@ -1,6 +1,6 @@
 # touchsensorExample
 
-![Screenshot of serialExample](serialExample.png)
+![Screenshot of serialExample](touchSensorExample.png)
 
 Simple Arduino touch sensor -> oF output
 
