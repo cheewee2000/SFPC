@@ -39,5 +39,5 @@ Attach the alligator clip going to Analog 0 to the copper strip.
 when the paper is folded, the copper tape should only touch the area that has graphite and not touch the alligator clips.
 
 
-
+more at [http://memoir.okno.be/phys_comp_tutorial/ribbon4/ribbon4.htm](http://memoir.okno.be/phys_comp_tutorial/ribbon4/ribbon4.htm)
 
