@@ -36,7 +36,7 @@ Attach the alligator clip going to Analog 0 to the copper strip.
 
 ![diytouchbar](diyPotentiometer2.jpeg)
 
-when the paper is folder, the copper tape should only touch the area that has graphite and not touch the alligator clips.
+when the paper is folded, the copper tape should only touch the area that has graphite and not touch the alligator clips.
 
 
 
