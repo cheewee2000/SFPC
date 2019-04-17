@@ -2,6 +2,7 @@ char serialInput;
 void setup() {
   //start serial communication at 9600baud (pulses per second)
   Serial.begin(9600);
+  pinMode(13, OUTPUT);  
 }
 void loop() {
   //check if there's anything in Serial RX
